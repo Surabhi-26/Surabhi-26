@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">🧠Machine Learning Enthusiast: Passionate about endless possibilities.<br><br>🌐 Tech Explorer: Always eager to explore and experiment with new technologies.<br><br>📘 Curious Mind: Always learning, always growing.</h4>
+<h4 align="left">🧠 Machine Learning Enthusiast: Passionate about endless possibilities.<br><br>🌐 Tech Explorer: Always eager to explore and experiment with new technologies.<br><br>📘 Curious Mind: Always learning, always growing.</h4>
 
 ###
 
