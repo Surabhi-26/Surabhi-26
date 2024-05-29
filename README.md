@@ -42,6 +42,12 @@
 
 ###
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Surabhi-26.Surabhi-26&left_text=Profile%20Views"  />
+</div>
+
+###
+
 <h4 align="left">Reach me at: surabhi.tilekar@gmail.com</h4>
 
 ###
